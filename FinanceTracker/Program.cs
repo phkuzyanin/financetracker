@@ -1,8 +1,9 @@
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
-
-/*app.Run(async (context) =>
+/*
+Response
+app.Run(async (context) =>
     {
         var response = context.Response;
         response.Headers.ContentLanguage = "ru-Ru";
@@ -11,7 +12,10 @@ var app = builder.Build();
         
         await response.WriteAsync("<h1>OK</h1>");
     }
-);*/
+);
+*/
+/*
+Request
 app.Run(async (context) =>
     {
         context.Response.ContentType = "text/html; charset=utf-8";
@@ -24,4 +28,6 @@ app.Run(async (context) =>
         await context.Response.WriteAsync(stringBuilder.ToString());
     }
 );
+*/
+app.Run(async (context) => await context.Response.SendFileAsync("./shrek.webp"));
 app.Run();
