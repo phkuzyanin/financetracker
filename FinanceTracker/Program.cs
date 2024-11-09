@@ -29,5 +29,23 @@ app.Run(async (context) =>
     }
 );
 */
-app.Run(async (context) => await context.Response.SendFileAsync("./shrek.webp"));
+app.Run(async (context) => 
+{
+    var path = context.Request.Path;
+    var fullPath = $"view/html/{path}";
+    var response = context.Response;
+
+    response.ContentType = "text/html; charset=utf-8";
+    if(File.Exists(fullPath)){
+        await response.SendFileAsync(fullPath);
+    }
+    else if(path == "/"){
+        await response.SendFileAsync("view/html/index.html");
+    }
+    else
+    {
+        response.StatusCode = 404;
+        await response.WriteAsync("<h2>Not Found</h2>");
+    }
+});
 app.Run();
