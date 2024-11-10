@@ -1,11 +1,58 @@
 {
   "Version": 1,
-  "Hash": "1wd60QpcDv4dllJ6VWrj32wHH8kO3cXguQ/VZaKWSgs=",
+  "Hash": "Pz2b6HSskZ1HS1+9cS+FvRHqpiCM9XxYFhnnZ2HWKTo=",
   "Source": "FinanceTracker",
   "BasePath": "_content/FinanceTracker",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "FinanceTracker/wwwroot",
+      "Source": "FinanceTracker",
+      "ContentRoot": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/",
+      "BasePath": "_content/FinanceTracker",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/html/error.html",
+      "SourceId": "FinanceTracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/",
+      "BasePath": "_content/FinanceTracker",
+      "RelativePath": "html/error.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/html/error.html"
+    },
+    {
+      "Identity": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/html/index.html",
+      "SourceId": "FinanceTracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/",
+      "BasePath": "_content/FinanceTracker",
+      "RelativePath": "html/index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/html/index.html"
+    }
+  ]
 }

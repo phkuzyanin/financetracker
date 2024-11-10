@@ -24,3 +24,4 @@
 /Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/obj/Debug/net8.0/FinanceTracker.pdb
 /Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/obj/Debug/net8.0/FinanceTracker.genruntimeconfig.cache
 /Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/obj/Debug/net8.0/ref/FinanceTracker.dll
+/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/bin/Debug/net8.0/FinanceTracker.staticwebassets.runtime.json

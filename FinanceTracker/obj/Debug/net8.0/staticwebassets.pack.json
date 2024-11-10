@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/html/error.html",
+      "PackagePath": "staticwebassets/html/error.html"
+    },
+    {
+      "Id": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/html/index.html",
+      "PackagePath": "staticwebassets/html/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.FinanceTracker.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.FinanceTracker.props",
+      "PackagePath": "build\\FinanceTracker.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FinanceTracker.props",
+      "PackagePath": "buildMultiTargeting\\FinanceTracker.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FinanceTracker.props",
+      "PackagePath": "buildTransitive\\FinanceTracker.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
