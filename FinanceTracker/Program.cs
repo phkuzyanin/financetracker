@@ -1,3 +1,4 @@
+using FinanceTracker;
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
@@ -33,22 +34,37 @@ async Task responsePage(HttpContext context)
 {
     var path = context.Request.Path;
     var fullPath = $"wwwroot/html/{path}";
+    var request = context.Request;
     var response = context.Response;
+    
     response.ContentType = "text/html; charset=utf-8";
-    if(path == "/postuser"){
-        await responseForm(context);
+    
+    if(request.HasJsonContentType())
+    {
+        var message = "Некорректные данные";
+        try
+        {
+            var user = await request.ReadFromJsonAsync<User>();
+            if(user != null) message = $"Name: {user.Name} Age: {user.Age}";
+        }
+        catch{ }
+        await response.WriteAsJsonAsync(new {text = message});
     }
-    else if(File.Exists(fullPath)){
-        await response.SendFileAsync(fullPath);
+    else if(path == "/postuser"){
+        await responseForm(context);
     }
     else if(path == "/"){
         await response.SendFileAsync("wwwroot/html/index.html");
+    }
+    else if(File.Exists(fullPath)){
+        await response.SendFileAsync(fullPath);
     }
     else
     {
         response.StatusCode = 404;
         await response.SendFileAsync("wwwroot/html/error.html");
     }
+
 };
 async Task responseForm(HttpContext context)
 {
