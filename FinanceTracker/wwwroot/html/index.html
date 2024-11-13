@@ -4,8 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Main</title>
+    <link rel="stylesheet" href="/wwwroot/styles/reset.css" type="text/css" runat="server">
+    <link rel="stylesheet" href="/wwwroot/styles/main.css" type="text/css" runat="server">
+    <script></script>
 </head>
 <body>
+<!-- 
     <h2>User form</h2>
     <div id="message"></div>
     <div>
@@ -17,20 +21,10 @@
         </p>
         <button id="sendBtn">Send</button>
     </div>
-    <script>
-        document.getElementById("sendBtn").addEventListener("click", send);
-        async function send() {
-            const response = await fetch("/api/user", {
-                method: "POST",
-                headers: { "Accept": "application/json", "Content-Type": "application/json" },
-                body: JSON.stringify({
-                    name: document.getElementById("userName").value,
-                    age: document.getElementById("userAge").value
-                })
-            });
-            const message = await response.json();
-            document.getElementById("message").innerText = message.text;
-        }
-    </script>
+-->
+<div class="wrapper">
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea, et!</p>
+</div>    
+<script src="/wwwroot/scripts/JSONserialize.js"></script>
 </body>
 </html>

@@ -9,6 +9,18 @@
       "PackagePath": "staticwebassets/html/index.html"
     },
     {
+      "Id": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/scripts/JSONserialize.js",
+      "PackagePath": "staticwebassets/scripts/JSONserialize.js"
+    },
+    {
+      "Id": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/styles/main.css",
+      "PackagePath": "staticwebassets/styles/main.css"
+    },
+    {
+      "Id": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/styles/reset.css",
+      "PackagePath": "staticwebassets/styles/reset.css"
+    },
+    {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.FinanceTracker.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
