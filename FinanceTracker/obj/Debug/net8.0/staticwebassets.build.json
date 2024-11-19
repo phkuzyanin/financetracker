@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JOyqQdKq9D6YuxmIwyJwYuzshqLyg/PqkOjys+gKNgM=",
+  "Hash": "99YMYJZt3eHp+Ep+mCY0zj8tFroijoItzTlELNwTTt4=",
   "Source": "FinanceTracker",
   "BasePath": "_content/FinanceTracker",
   "Mode": "Default",
@@ -55,12 +55,12 @@
       "OriginalItemSpec": "wwwroot/html/index.html"
     },
     {
-      "Identity": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/scripts/JSONserialize.js",
+      "Identity": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/html/style.css",
       "SourceId": "FinanceTracker",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/",
       "BasePath": "_content/FinanceTracker",
-      "RelativePath": "scripts/JSONserialize.js",
+      "RelativePath": "html/style.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -71,45 +71,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scripts/JSONserialize.js"
-    },
-    {
-      "Identity": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/styles/main.css",
-      "SourceId": "FinanceTracker",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/",
-      "BasePath": "_content/FinanceTracker",
-      "RelativePath": "styles/main.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/styles/main.css"
-    },
-    {
-      "Identity": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/styles/reset.css",
-      "SourceId": "FinanceTracker",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/",
-      "BasePath": "_content/FinanceTracker",
-      "RelativePath": "styles/reset.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/styles/reset.css"
+      "OriginalItemSpec": "wwwroot/html/style.css"
     }
   ]
 }
