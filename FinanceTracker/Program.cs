@@ -21,7 +21,7 @@ async Task responsePage(HttpContext context)
         await response.SendFileAsync(fullPath);
     }
     else
-    {
+    {aa
         response.StatusCode = 404;
         await response.SendFileAsync("wwwroot/html/error.html");
     }
