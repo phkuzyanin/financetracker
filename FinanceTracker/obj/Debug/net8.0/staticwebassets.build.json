@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "99YMYJZt3eHp+Ep+mCY0zj8tFroijoItzTlELNwTTt4=",
+  "Hash": "JGuwlcGuFEYWRcom3ICLBEtBeEZMuiroPzBTa7+3BXg=",
   "Source": "FinanceTracker",
   "BasePath": "_content/FinanceTracker",
   "Mode": "Default",
@@ -16,25 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/html/error.html",
-      "SourceId": "FinanceTracker",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/",
-      "BasePath": "_content/FinanceTracker",
-      "RelativePath": "html/error.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/html/error.html"
-    },
     {
       "Identity": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/html/index.html",
       "SourceId": "FinanceTracker",
