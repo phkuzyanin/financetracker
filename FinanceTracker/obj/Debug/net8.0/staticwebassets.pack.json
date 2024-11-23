@@ -1,12 +1,20 @@
 {
   "Files": [
     {
+      "Id": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/css/reset.css",
+      "PackagePath": "staticwebassets/css/reset.css"
+    },
+    {
+      "Id": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
       "Id": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/html/index.html",
       "PackagePath": "staticwebassets/html/index.html"
     },
     {
-      "Id": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/html/style.css",
-      "PackagePath": "staticwebassets/html/style.css"
+      "Id": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/scripts/radial.js",
+      "PackagePath": "staticwebassets/scripts/radial.js"
     },
     {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.FinanceTracker.Microsoft.AspNetCore.StaticWebAssets.props",
