@@ -15,6 +15,7 @@ app.Run(async (context) =>
     var path = context.Request.Path;
     var response = context.Response;
     var request = context.Request;
-    
+    if(path == "/") await response.SendFileAsync("index.html");
+    else;
 });
 app.Run();

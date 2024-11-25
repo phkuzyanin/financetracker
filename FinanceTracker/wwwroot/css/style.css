@@ -1,4 +1,7 @@
-#chartWrapper{
-    width: 1000px;
-    height: 1000px;
+div{
+    width: 250px;
+    height: 250px;
+}
+body{
+    background-color: red;
 }
