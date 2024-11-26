@@ -26,5 +26,13 @@ const myChart = new Chart(ctx, {
             data: userData,
             backgroundColor: userColors,
         }]
-    }
+    },
+    options: {
+        plugins: {
+            legend: {
+                display: false,
+                }
+            }
+        }
+    
 });

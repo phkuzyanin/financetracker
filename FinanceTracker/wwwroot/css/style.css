@@ -1,7 +1,21 @@
-div{
-    width: 250px;
-    height: 250px;
+:root{
+    --background-color: #FFFECB;
+    --worckspace-color: #1AC8ED;
+    --border-color: #2D3047
 }
 body{
-    background-color: red;
+    background-color: var(--background-color);
+    
+}
+.wrapper{
+    margin: 7% 5% 5%;
+    min-height: 100px;
+    min-width: 100px;
+    background-color: var(--worckspace-color);
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    border: 3px solid var(--border-color);
+    border-radius: 20px;
 }
