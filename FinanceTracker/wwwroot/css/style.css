@@ -8,9 +8,10 @@ body{
     
 }
 .wrapper{
-    margin: 7% 5% 5%;
-    min-height: 100px;
-    min-width: 100px;
+    margin: 5vh 5vw;
+    padding: 10px;
+    min-height: 90vh;
+    min-width: 90vw;
     background-color: var(--worckspace-color);
     display: flex;
     flex-direction: column;
@@ -18,4 +19,18 @@ body{
     align-items: center;
     border: 3px solid var(--border-color);
     border-radius: 20px;
+}
+.main{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.info{
+    padding: 10px;
+    width: 50%;
+
+}
+#chartWrapper{
+    max-width: 50%;
+    padding: 10px;
 }

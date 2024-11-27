@@ -6,17 +6,25 @@
     <title>Finance Tracker</title>
     <link rel="stylesheet" href="../css/reset.css">
     <link rel="stylesheet" href="../css/style.css">
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script  src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
    <div class="wrapper">
-    <h1>Finance Tracker</h1>
-   
-    <div id="chartWrapper">
-        <canvas id="myChart"></canvas>
-    </div>
-    
-    <script src="../scripts/radial.js"></script>
+        <header class="header">Трекер Финансов</header> 
+        <main class="main">
+            <div class="info">
+                <form action="submitForm" method="post">
+                    <button>Button</button>
+                </form>
+            </div>
+            <div id="chartWrapper">
+                <canvas id="myChart"></canvas>
+            </div>
+            <script type="module"  src="../scripts/radial.js"></script>
+        </main>
+        <footer class="footer">
+
+        </footer>
     </div>
 </body>
 </html>
