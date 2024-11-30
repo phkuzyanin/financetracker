@@ -14,7 +14,13 @@ function addItem(labelName, labelData){
     userLabels.push(labelName);
     userData.push(labelData);
 }
-addItem('Жижа', 100);
+function getValues(){
+        const category = document.getElementById('category').value;
+        const count = document.getElementById('count').value;
+        console.log(category);
+        console.log(count);
+        addItem(category, count);
+    }
 const myChart = new Chart(ctx, {
     type: 'doughnut',
     data: {
@@ -34,3 +40,4 @@ const myChart = new Chart(ctx, {
         }
     
 });
+export {getValues}

@@ -1,36 +1,17 @@
-:root{
-    --background-color: #FFFECB;
-    --worckspace-color: #1AC8ED;
-    --border-color: #2D3047
-}
-body{
-    background-color: var(--background-color);
-    
-}
-.wrapper{
-    margin: 5vh 5vw;
-    padding: 10px;
-    min-height: 90vh;
-    min-width: 90vw;
-    background-color: var(--worckspace-color);
+.financeForm{
     display: flex;
     flex-direction: column;
-    justify-content: start;
-    align-items: center;
-    border: 3px solid var(--border-color);
-    border-radius: 20px;
-}
-.main{
-    width: 100%;
-    display: flex;
-    flex-direction: row;
-}
-.info{
+    justify-content: space-between;
+    align-items: start;
+    width: 300px;
+    height: 150px;
     padding: 10px;
-    width: 50%;
-
 }
-#chartWrapper{
-    max-width: 50%;
-    padding: 10px;
+input{
+    border-style: solid;
+    border-width: 1px;
+    width: 100px;
+}
+button{
+    background-color: #A0F0CC;
 }
