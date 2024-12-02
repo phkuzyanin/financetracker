@@ -7,20 +7,34 @@
     <link rel="stylesheet" href="../css/reset.css">
     <link rel="stylesheet" href="../css/style.css">
     <script  src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script type="module"  src="../scripts/radial.js">
     </script>
 </head>
 <body>
-    
-    <form action="" class="financeForm">
-        <label for="category">Введите название категории</label>
-        <input type="text" name="category" id="category">
-        <label for="count">Введите значение</label>
-        <input type="text" name="count" id="count">
-        <button type="button" id="addItem" onclick="getValues()">Подтвердить</button>
-    </form>
+    <dialog id="formWindow">
+        <script src="../scripts/categorySender.js"></script>
+        <form action="" class="financeForm">
+            <label for="category">Введите название категории</label>
+            <input type="text" name="category" id="category">
+            <label for="count">Введите значение</label>
+            <input type="text" name="count" id="count">
+            <button type="button" id="addItem" onclick="categorySender()">Подтвердить</button>
+        </form>
+    </dialog>
+    <button id="showWindow">
+        Показать
+    </button>
+    <script>
+        const formWindow = document.getElementById("formWindow");
+
+        const showWindow = document.getElementById("showWindow");
+
+        showWindow.addEventListener("click", () => {
+        formWindow.show();
+            });
+    </script>
     <div id="chartWrapper">
         <canvas id="myChart"></canvas>
     </div>
+    <script type="module"  src="../scripts/radial.js"></script>
 </body>
 </html>
