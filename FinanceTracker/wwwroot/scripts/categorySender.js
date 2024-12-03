@@ -20,6 +20,6 @@ function categorySender(){
         category: categoryVaue,
         count: countValue,
     }
-    sendJSON(newItem);
+    sendJSON(newItem);s
 }
 
