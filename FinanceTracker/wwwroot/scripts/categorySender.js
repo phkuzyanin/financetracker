@@ -17,7 +17,7 @@ function categorySender(){
     let categoryValue = category.value;
     let countValue = count.value;
     let newItem = {
-        category: categoryVaue,
+        category: categoryValue,
         count: countValue,
     }
     sendJSON(newItem);s

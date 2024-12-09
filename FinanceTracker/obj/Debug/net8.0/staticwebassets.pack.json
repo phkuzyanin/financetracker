@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets/html/index.html"
     },
     {
+      "Id": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/scripts/categorySender.js",
+      "PackagePath": "staticwebassets/scripts/categorySender.js"
+    },
+    {
       "Id": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/scripts/radial.js",
       "PackagePath": "staticwebassets/scripts/radial.js"
     },

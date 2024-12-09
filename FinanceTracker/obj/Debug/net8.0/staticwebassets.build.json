@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "30DByQnTcKVuLLHUtBnMcZ0s52ue0lVzlr6CLn9fI8c=",
+  "Hash": "KcAIJ0xPumWJJfvB6tvbiJZ8UFxlf+G8vjkx9ThqYoQ=",
   "Source": "FinanceTracker",
   "BasePath": "_content/FinanceTracker",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/html/index.html"
+    },
+    {
+      "Identity": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/scripts/categorySender.js",
+      "SourceId": "FinanceTracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/",
+      "BasePath": "_content/FinanceTracker",
+      "RelativePath": "scripts/categorySender.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/scripts/categorySender.js"
     },
     {
       "Identity": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/scripts/radial.js",
