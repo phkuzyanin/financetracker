@@ -10,28 +10,6 @@
     </script>
 </head>
 <body>
-    <dialog id="formWindow">
-        <script src="../scripts/categorySender.js"></script>
-        <form action="" class="financeForm">
-            <label for="category">Введите название категории</label>
-            <input type="text" name="category" id="category">
-            <label for="count">Введите значение</label>
-            <input type="text" name="count" id="count">
-            <button action="updateChart" type="button" id="addItem"  >Подтвердить</button>
-        </form>
-    </dialog>
-    <button id="showWindow">
-        Показать
-    </button>
-    <script>
-        const formWindow = document.getElementById("formWindow");
-
-        const showWindow = document.getElementById("showWindow");
-
-        showWindow.addEventListener("click", () => {
-        formWindow.show();
-            });
-    </script>
     <div id="chartWrapper">
         <canvas id="myChart"></canvas>
     </div>

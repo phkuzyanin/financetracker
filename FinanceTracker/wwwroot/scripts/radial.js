@@ -1,8 +1,8 @@
 const ctx = document.getElementById('myChart').getContext('2d');
 
-let userLabels = []
-let userColors = [];
-let userData = []
+let userLabels = [10,100]
+let userColors = ["#0ACAAA","#10Ffff"];
+let userData = [10,10]
 const myChart = new Chart(ctx, {
     type: 'doughnut',
     data: {
