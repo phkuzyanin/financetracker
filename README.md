@@ -1,2 +1,2 @@
 # FinanceTracker
-Для подробной информации по стилям и классам обратитесь к файлу Documentation.md
+Для подробной информации по стилям и классам обратитесь к файлу Documentation.md# financetracker
