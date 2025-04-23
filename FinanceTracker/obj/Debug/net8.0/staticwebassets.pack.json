@@ -1,24 +1,24 @@
 {
   "Files": [
     {
-      "Id": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/css/reset.css",
+      "Id": "/Users/evein/Desktop/Philipp/projects/financetracker/FinanceTracker/wwwroot/css/reset.css",
       "PackagePath": "staticwebassets/css/reset.css"
     },
     {
-      "Id": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/css/style.css",
+      "Id": "/Users/evein/Desktop/Philipp/projects/financetracker/FinanceTracker/wwwroot/css/style.css",
       "PackagePath": "staticwebassets/css/style.css"
     },
     {
-      "Id": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/html/index.html",
+      "Id": "/Users/evein/Desktop/Philipp/projects/financetracker/FinanceTracker/wwwroot/html/index.html",
       "PackagePath": "staticwebassets/html/index.html"
     },
     {
-      "Id": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/scripts/categorySender.js",
-      "PackagePath": "staticwebassets/scripts/categorySender.js"
+      "Id": "/Users/evein/Desktop/Philipp/projects/financetracker/FinanceTracker/wwwroot/scripts/chart.js",
+      "PackagePath": "staticwebassets/scripts/chart.js"
     },
     {
-      "Id": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/scripts/radial.js",
-      "PackagePath": "staticwebassets/scripts/radial.js"
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.FinanceTracker.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.FinanceTracker.Microsoft.AspNetCore.StaticWebAssets.props",

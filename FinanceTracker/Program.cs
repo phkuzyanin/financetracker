@@ -4,13 +4,12 @@ var builder = WebApplication.CreateBuilder(
     new WebApplicationOptions{ WebRootPath = "wwwroot/html"}
 );
 
+builder.Services.AddControllers();
 var app = builder.Build();
+
+app.UseHttpsRedirection();
 app.UseDefaultFiles();
 app.UseStaticFiles();
-app.Run(async (context) => 
-{
-    var path = context.Request.Path;
-    var response = context.Response;
-    var request = context.Request;
-});
+app.MapControllers();
+
 app.Run();

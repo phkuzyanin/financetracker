@@ -25,3 +25,6 @@
 /Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/obj/Debug/net8.0/FinanceTracker.genruntimeconfig.cache
 /Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/obj/Debug/net8.0/ref/FinanceTracker.dll
 /Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/bin/Debug/net8.0/FinanceTracker.staticwebassets.runtime.json
+/Users/evein/Desktop/Philipp/projects/financetracker/FinanceTracker/bin/Debug/net8.0/FinanceTracker.staticwebassets.endpoints.json
+/Users/evein/Desktop/Philipp/projects/financetracker/FinanceTracker/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/evein/Desktop/Philipp/projects/financetracker/FinanceTracker/obj/Debug/net8.0/staticwebassets/msbuild.FinanceTracker.Microsoft.AspNetCore.StaticWebAssetEndpoints.props

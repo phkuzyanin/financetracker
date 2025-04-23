@@ -1,0 +1,52 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/FinanceTracker/css/reset.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\reset.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9yZoJRWg69tWUvsMAnV4on0KNxsQqcxjlB2HH6v8rzA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1085"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00229yZoJRWg69tWUvsMAnV4on0KNxsQqcxjlB2HH6v8rzA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 20:35:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FinanceTracker/css/reset.vaztz32fqt.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\reset.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vaztz32fqt"},{"Name":"integrity","Value":"sha256-9yZoJRWg69tWUvsMAnV4on0KNxsQqcxjlB2HH6v8rzA="},{"Name":"label","Value":"_content/FinanceTracker/css/reset.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1085"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00229yZoJRWg69tWUvsMAnV4on0KNxsQqcxjlB2HH6v8rzA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 20:35:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FinanceTracker/css/style.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6/OmRyuDLsrQKaOPwuCF1r7\u002ByAn05nSgyfAwdeOMVqQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"77"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00226/OmRyuDLsrQKaOPwuCF1r7\u002ByAn05nSgyfAwdeOMVqQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 22 Apr 2025 06:56:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FinanceTracker/css/style.l86ic4c1vz.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l86ic4c1vz"},{"Name":"integrity","Value":"sha256-6/OmRyuDLsrQKaOPwuCF1r7\u002ByAn05nSgyfAwdeOMVqQ="},{"Name":"label","Value":"_content/FinanceTracker/css/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"77"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00226/OmRyuDLsrQKaOPwuCF1r7\u002ByAn05nSgyfAwdeOMVqQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 22 Apr 2025 06:56:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FinanceTracker/html/index.fav0z3a73u.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\html\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fav0z3a73u"},{"Name":"integrity","Value":"sha256-Z\u002B2WKrNXjmo9gM6cEjVayDjY40zHwe73ti6Xq/ROD0s="},{"Name":"label","Value":"_content/FinanceTracker/html/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"433"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Z\u002B2WKrNXjmo9gM6cEjVayDjY40zHwe73ti6Xq/ROD0s=\u0022"},{"Name":"Last-Modified","Value":"Wed, 23 Apr 2025 06:47:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FinanceTracker/html/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\html\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Z\u002B2WKrNXjmo9gM6cEjVayDjY40zHwe73ti6Xq/ROD0s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"433"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Z\u002B2WKrNXjmo9gM6cEjVayDjY40zHwe73ti6Xq/ROD0s=\u0022"},{"Name":"Last-Modified","Value":"Wed, 23 Apr 2025 06:47:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FinanceTracker/scripts/chart.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\scripts\chart.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bm2Pxi283Uh7yyldvW\u002B424twx\u002BcX4SwXzV4DKEiYaqA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"791"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022bm2Pxi283Uh7yyldvW\u002B424twx\u002BcX4SwXzV4DKEiYaqA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 22 Apr 2025 06:55:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FinanceTracker/scripts/chart.ucun8zgom0.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\scripts\chart.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ucun8zgom0"},{"Name":"integrity","Value":"sha256-bm2Pxi283Uh7yyldvW\u002B424twx\u002BcX4SwXzV4DKEiYaqA="},{"Name":"label","Value":"_content/FinanceTracker/scripts/chart.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"791"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022bm2Pxi283Uh7yyldvW\u002B424twx\u002BcX4SwXzV4DKEiYaqA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 22 Apr 2025 06:55:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
