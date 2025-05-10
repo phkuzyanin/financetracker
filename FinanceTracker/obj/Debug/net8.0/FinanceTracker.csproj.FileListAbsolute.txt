@@ -28,3 +28,30 @@
 /Users/evein/Desktop/Philipp/projects/financetracker/FinanceTracker/bin/Debug/net8.0/FinanceTracker.staticwebassets.endpoints.json
 /Users/evein/Desktop/Philipp/projects/financetracker/FinanceTracker/obj/Debug/net8.0/staticwebassets.build.endpoints.json
 /Users/evein/Desktop/Philipp/projects/financetracker/FinanceTracker/obj/Debug/net8.0/staticwebassets/msbuild.FinanceTracker.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/bin/Debug/net8.0/appsettings.Development.json
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/bin/Debug/net8.0/appsettings.json
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/bin/Debug/net8.0/FinanceTracker.staticwebassets.runtime.json
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/bin/Debug/net8.0/FinanceTracker
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/bin/Debug/net8.0/FinanceTracker.deps.json
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/bin/Debug/net8.0/FinanceTracker.runtimeconfig.json
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/bin/Debug/net8.0/FinanceTracker.dll
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/bin/Debug/net8.0/FinanceTracker.pdb
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/obj/Debug/net8.0/FinanceTracker.GeneratedMSBuildEditorConfig.editorconfig
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/obj/Debug/net8.0/FinanceTracker.AssemblyInfoInputs.cache
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/obj/Debug/net8.0/FinanceTracker.AssemblyInfo.cs
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/obj/Debug/net8.0/FinanceTracker.csproj.CoreCompileInputs.cache
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/obj/Debug/net8.0/FinanceTracker.MvcApplicationPartsAssemblyInfo.cache
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/obj/Debug/net8.0/FinanceTracker.sourcelink.json
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/obj/Debug/net8.0/staticwebassets.build.json
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/obj/Debug/net8.0/staticwebassets.development.json
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/obj/Debug/net8.0/staticwebassets/msbuild.FinanceTracker.Microsoft.AspNetCore.StaticWebAssets.props
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/obj/Debug/net8.0/staticwebassets/msbuild.build.FinanceTracker.props
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FinanceTracker.props
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FinanceTracker.props
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/obj/Debug/net8.0/staticwebassets.pack.json
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/obj/Debug/net8.0/scopedcss/bundle/FinanceTracker.styles.css
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/obj/Debug/net8.0/FinanceTracker.dll
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/obj/Debug/net8.0/refint/FinanceTracker.dll
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/obj/Debug/net8.0/FinanceTracker.pdb
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/obj/Debug/net8.0/FinanceTracker.genruntimeconfig.cache
+/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/obj/Debug/net8.0/ref/FinanceTracker.dll

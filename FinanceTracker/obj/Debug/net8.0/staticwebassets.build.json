@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PzBM6gPec3KyPQTiWxg+t1k3uHZHc9z+nPb2fVVZiHo=",
+  "Hash": "x0SmNRL2mKSx4C/UG12mqicFfYS0n6bvk68n6Ds/AOI=",
   "Source": "FinanceTracker",
   "BasePath": "_content/FinanceTracker",
   "Mode": "Default",
@@ -10,425 +10,87 @@
     {
       "Name": "FinanceTracker/wwwroot",
       "Source": "FinanceTracker",
-      "ContentRoot": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/",
+      "ContentRoot": "/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/wwwroot/",
       "BasePath": "_content/FinanceTracker",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/evein/Desktop/Philipp/projects/financetracker/FinanceTracker/wwwroot/css/reset.css",
+      "Identity": "/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/wwwroot/css/reset.css",
       "SourceId": "FinanceTracker",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/",
+      "ContentRoot": "/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/wwwroot/",
       "BasePath": "_content/FinanceTracker",
-      "RelativePath": "css/reset#[.{fingerprint}]?.css",
+      "RelativePath": "css/reset.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "vaztz32fqt",
-      "Integrity": "9yZoJRWg69tWUvsMAnV4on0KNxsQqcxjlB2HH6v8rzA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/reset.css"
     },
     {
-      "Identity": "/Users/evein/Desktop/Philipp/projects/financetracker/FinanceTracker/wwwroot/css/style.css",
+      "Identity": "/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/wwwroot/css/style.css",
       "SourceId": "FinanceTracker",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/",
+      "ContentRoot": "/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/wwwroot/",
       "BasePath": "_content/FinanceTracker",
-      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "RelativePath": "css/style.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "l86ic4c1vz",
-      "Integrity": "6/OmRyuDLsrQKaOPwuCF1r7+yAn05nSgyfAwdeOMVqQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/style.css"
     },
     {
-      "Identity": "/Users/evein/Desktop/Philipp/projects/financetracker/FinanceTracker/wwwroot/html/index.html",
+      "Identity": "/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/wwwroot/html/index.html",
       "SourceId": "FinanceTracker",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/",
+      "ContentRoot": "/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/wwwroot/",
       "BasePath": "_content/FinanceTracker",
-      "RelativePath": "html/index#[.{fingerprint}]?.html",
+      "RelativePath": "html/index.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "fav0z3a73u",
-      "Integrity": "Z+2WKrNXjmo9gM6cEjVayDjY40zHwe73ti6Xq/ROD0s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/html/index.html"
     },
     {
-      "Identity": "/Users/evein/Desktop/Philipp/projects/financetracker/FinanceTracker/wwwroot/scripts/chart.js",
+      "Identity": "/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/wwwroot/scripts/chart.js",
       "SourceId": "FinanceTracker",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/evein/Desktop/Philipp/projects/FinanceTracker/FinanceTracker/wwwroot/",
+      "ContentRoot": "/home/philipp/Рабочий стол/C#/financetracker/FinanceTracker/wwwroot/",
       "BasePath": "_content/FinanceTracker",
-      "RelativePath": "scripts/chart#[.{fingerprint}]?.js",
+      "RelativePath": "scripts/chart.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ucun8zgom0",
-      "Integrity": "bm2Pxi283Uh7yyldvW+424twx+cX4SwXzV4DKEiYaqA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/scripts/chart.js"
-    }
-  ],
-  "Endpoints": [
-    {
-      "Route": "css/reset.css",
-      "AssetFile": "/Users/evein/Desktop/Philipp/projects/financetracker/FinanceTracker/wwwroot/css/reset.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1085"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9yZoJRWg69tWUvsMAnV4on0KNxsQqcxjlB2HH6v8rzA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 20:35:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9yZoJRWg69tWUvsMAnV4on0KNxsQqcxjlB2HH6v8rzA="
-        }
-      ]
-    },
-    {
-      "Route": "css/reset.vaztz32fqt.css",
-      "AssetFile": "/Users/evein/Desktop/Philipp/projects/financetracker/FinanceTracker/wwwroot/css/reset.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1085"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9yZoJRWg69tWUvsMAnV4on0KNxsQqcxjlB2HH6v8rzA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 20:35:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vaztz32fqt"
-        },
-        {
-          "Name": "label",
-          "Value": "css/reset.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-9yZoJRWg69tWUvsMAnV4on0KNxsQqcxjlB2HH6v8rzA="
-        }
-      ]
-    },
-    {
-      "Route": "css/style.css",
-      "AssetFile": "/Users/evein/Desktop/Philipp/projects/financetracker/FinanceTracker/wwwroot/css/style.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "77"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6/OmRyuDLsrQKaOPwuCF1r7+yAn05nSgyfAwdeOMVqQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 06:56:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-6/OmRyuDLsrQKaOPwuCF1r7+yAn05nSgyfAwdeOMVqQ="
-        }
-      ]
-    },
-    {
-      "Route": "css/style.l86ic4c1vz.css",
-      "AssetFile": "/Users/evein/Desktop/Philipp/projects/financetracker/FinanceTracker/wwwroot/css/style.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "77"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6/OmRyuDLsrQKaOPwuCF1r7+yAn05nSgyfAwdeOMVqQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 06:56:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "l86ic4c1vz"
-        },
-        {
-          "Name": "label",
-          "Value": "css/style.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-6/OmRyuDLsrQKaOPwuCF1r7+yAn05nSgyfAwdeOMVqQ="
-        }
-      ]
-    },
-    {
-      "Route": "html/index.fav0z3a73u.html",
-      "AssetFile": "/Users/evein/Desktop/Philipp/projects/financetracker/FinanceTracker/wwwroot/html/index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "433"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Z+2WKrNXjmo9gM6cEjVayDjY40zHwe73ti6Xq/ROD0s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 06:47:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fav0z3a73u"
-        },
-        {
-          "Name": "label",
-          "Value": "html/index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Z+2WKrNXjmo9gM6cEjVayDjY40zHwe73ti6Xq/ROD0s="
-        }
-      ]
-    },
-    {
-      "Route": "html/index.html",
-      "AssetFile": "/Users/evein/Desktop/Philipp/projects/financetracker/FinanceTracker/wwwroot/html/index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "433"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Z+2WKrNXjmo9gM6cEjVayDjY40zHwe73ti6Xq/ROD0s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 06:47:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Z+2WKrNXjmo9gM6cEjVayDjY40zHwe73ti6Xq/ROD0s="
-        }
-      ]
-    },
-    {
-      "Route": "scripts/chart.js",
-      "AssetFile": "/Users/evein/Desktop/Philipp/projects/financetracker/FinanceTracker/wwwroot/scripts/chart.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "791"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bm2Pxi283Uh7yyldvW+424twx+cX4SwXzV4DKEiYaqA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 06:55:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-bm2Pxi283Uh7yyldvW+424twx+cX4SwXzV4DKEiYaqA="
-        }
-      ]
-    },
-    {
-      "Route": "scripts/chart.ucun8zgom0.js",
-      "AssetFile": "/Users/evein/Desktop/Philipp/projects/financetracker/FinanceTracker/wwwroot/scripts/chart.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "791"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bm2Pxi283Uh7yyldvW+424twx+cX4SwXzV4DKEiYaqA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 06:55:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ucun8zgom0"
-        },
-        {
-          "Name": "label",
-          "Value": "scripts/chart.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-bm2Pxi283Uh7yyldvW+424twx+cX4SwXzV4DKEiYaqA="
-        }
-      ]
     }
   ]
 }
